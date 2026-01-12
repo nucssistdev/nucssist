@@ -26,6 +26,8 @@ Electron + Vue 3 + TypeScript + Vite + better-sqlite3
 
 nucssist 是一款专为安全研究人员和企业安全运维管理打造的桌面级 POC 管理工具。作为 Nuclei Template 管理工具，打通 POC 编写、复现、调试、调度管理的多维度场景，抛弃传统繁琐文件操作，以数据为核心。深度融合 Nuclei Template 语法和 YAML 语法，支持代码高亮、自动提示和语法检查，优化 POC 编写体验。智能识别应用和漏洞类型，提供便捷的应用管理、POC 管理、漏洞类型管理、网空数据管理和任务管理。提供丝滑的实时响应搜索体验。
 
+![主界面](./images/main-interface.png)
+
 ## 特点
 
 现代化构建方法，更加良好的使用体验，统一、便捷、高效、多变
